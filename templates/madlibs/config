@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "khanhbao128"]
+	url = https://github.com/khanhbao128/HB11_madlibs-lab.git
+	fetch = +refs/heads/*:refs/remotes/khanhbao128/*
